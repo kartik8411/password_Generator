@@ -1,3 +1,4 @@
+![logo](https://github.com/kartik8411/password_Generator/blob/main/image1.png)
 # Random Password Generator
 
 ### This Python script generates a random password based on user input for the desired password length. It combines lowercase letters, uppercase letters, digits, and punctuation characters to create a secure password.
@@ -24,7 +25,7 @@
 ### 4. Enter the desired password length when prompted.
 ### 5. The script will display a randomly generated password.
 
-![logo](https://github.com/kartik8411/password_Generator/blob/main/image.png)
+![logo](https://github.com/kartik8411/password_Generator/blob/main/image2.png)
 
 ## Code Explanation
 ### The script works as follows:
@@ -53,6 +54,6 @@
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### This project is licensed under the MIT License - see the LICENSE file for details.
 
 
