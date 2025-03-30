@@ -1,5 +1,11 @@
+import pyfiglet 
+from colorama import Fore 
 import string
 import random
+
+banner = pyfiglet.figlet_format('Passwd Generator', font='doom')
+print(Fore.GREEN + banner)
+
 
 if __name__== "__main__":
      s1 = string.ascii_lowercase
@@ -11,7 +17,7 @@ if __name__== "__main__":
      s4 = string.punctuation
      #print(s4)
 
-     plen = int(input("Enter password Length\n"))
+     plen = int(input("Enter password Length:\n"))
      s = []
      s.extend(list(s1))
      s.extend(list(s2))
